@@ -1,0 +1,317 @@
+# Tento viminfo soubor byl vytvořen editorem Vim 8.2.
+# Pokud budete opatrný, můžete jej upravovat.
+
+# Viminfo version
+|1,4
+
+# Hodnota volby 'encoding' v době uložení tohoto souboru
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/root
+
+# Historie příkazové řádky (počínaje nejnovější položkou):
+:q
+|2,0,1706299515,,"q"
+:wq
+|2,0,1704914924,,"wq"
+:q!
+|2,0,1704910176,,"q!"
+
+# Historie vyhledávaných řetězců (počínaje nejnovější položkou):
+?/root
+|2,1,1703958956,47,"root"
+?/Root
+|2,1,1703958952,47,"Root"
+
+# Historie výrazů (počínaje nejnovější položkou):
+
+# Historie vstupní řádky (počínaje nejnovější položkou):
+
+# Historie Debug Line (počínaje nejnovější položkou):
+
+# Registry:
+""-	CHAR	0
+	#
+|3,1,36,0,1,0,1703958754,"#"
+
+# Souborové značky:
+'0  1  0  ~/.ssh/id_rsa.pub
+|4,48,1,0,1706299515,"~/.ssh/id_rsa.pub"
+'1  1  0  ~/.ssh/id_rsa.pub
+|4,49,1,0,1706299237,"~/.ssh/id_rsa.pub"
+'2  11  31  /etc/sudoers
+|4,50,11,31,1705864093,"/etc/sudoers"
+'3  7  15  ~/traefik/docker-compose.yaml
+|4,51,7,15,1704914924,"~/traefik/docker-compose.yaml"
+'4  1  0  ~/traefik/docker-compose.yaml
+|4,52,1,0,1704914734,"~/traefik/docker-compose.yaml"
+'5  1  0  ~/traefik/docker-compose.yaml
+|4,53,1,0,1704914734,"~/traefik/docker-compose.yaml"
+'6  1  12  ~/traefik/docker-compose.yml
+|4,54,1,12,1704911349,"~/traefik/docker-compose.yml"
+'7  1  12  ~/traefik/docker-compose.yml
+|4,55,1,12,1704911112,"~/traefik/docker-compose.yml"
+'8  1  0  ~/traefik/docker-compose.yml
+|4,56,1,0,1704911105,"~/traefik/docker-compose.yml"
+'9  1  0  ~/traefik/docker-compose.yml
+|4,57,1,0,1704911105,"~/traefik/docker-compose.yml"
+
+# Seznam skoků (počínaje nejnovější položkou):
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1706299515,"~/.ssh/id_rsa.pub"
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1706299237,"~/.ssh/id_rsa.pub"
+-'  11  31  /etc/sudoers
+|4,39,11,31,1705864093,"/etc/sudoers"
+-'  11  31  /etc/sudoers
+|4,39,11,31,1705864093,"/etc/sudoers"
+-'  11  31  /etc/sudoers
+|4,39,11,31,1705864093,"/etc/sudoers"
+-'  11  31  /etc/sudoers
+|4,39,11,31,1705864093,"/etc/sudoers"
+-'  54  0  /etc/sudoers
+|4,39,54,0,1705864070,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1705864070,"/etc/sudoers"
+-'  54  0  /etc/sudoers
+|4,39,54,0,1705864070,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1705864070,"/etc/sudoers"
+-'  54  0  /etc/sudoers
+|4,39,54,0,1705864070,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1705864070,"/etc/sudoers"
+-'  54  0  /etc/sudoers
+|4,39,54,0,1705864070,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1705864070,"/etc/sudoers"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  7  15  ~/traefik/docker-compose.yaml
+|4,39,7,15,1704914924,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914736,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  0  ~/traefik/docker-compose.yaml
+|4,39,1,0,1704914734,"~/traefik/docker-compose.yaml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911349,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+-'  1  12  ~/traefik/docker-compose.yml
+|4,39,1,12,1704911112,"~/traefik/docker-compose.yml"
+
+# Historie značek v souborech (počínaje nejnovější položkou):
+
+> ~/.ssh/id_rsa.pub
+	*	1706299456	0
+	"	1	0
+
+> /etc/sudoers
+	*	1705864092	0
+	"	11	31
+
+> ~/traefik/docker-compose.yaml
+	*	1704914923	0
+	"	7	15
+
+> ~/traefik/docker-compose.yml
+	*	1704911341	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/traefik/docker.compose-yaml
+	*	1704910957	0
+	"	1	0
+
+> /etc/haproxy/haproxy.cfg
+	*	1704910175	0
+	"	34	42
+
+> /etc/haproxy/errors/503.http
+	*	1704909568	0
+	"	1	0
+
+> /etc/haproxy/errors/504.http
+	*	1704909553	0
+	"	8	0
+
+> /etc/netplan/01-network-manager-all.yaml
+	*	1704836797	0
+	"	2	0
+	^	11	13
+	.	11	12
+	+	4	20
+	+	6	12
+	+	8	28
+	+	11	12
+
+> /etc/ssh/sshd_config
+	*	1703958959	0
+	"	105	3
+	^	33	19
+	.	33	18
+	+	33	18
